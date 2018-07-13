@@ -1,6 +1,7 @@
 
 ---
- Key: Value
+ Key: "Value"
+ Key2: "value2"
 ---
 
 # Trial
